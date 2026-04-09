@@ -13,23 +13,3 @@ Multimodal object detection dataset for SAR and optical images
 standard : [https://drive.google.com/drive/folders/1V5BRbZYjHfmIp8qpKmqT_CcTyIJwiKOV?usp=sharing]
 
 Oriented Bounding Boxes: [https://drive.google.com/drive/folders/1VIOpBJkZ4eG4hoZCzSOt3Bl1PCUL6LXZ?usp=sharing]
-
-# 数据目录结构
-下载解压后，请将数据集按照以下结构放置在项目根目录：
-data/
-OGSOD-1.0
-  ├──rgb
-  │  └── images/
-  │  │      ├──test
-  │  │      └──train
-  │  └── labels/
-  │        ├──test/
-  │        └──train/
-  └──sar  
-     └── images/
-     │      ├──test/
-     │      └──train/
-     └── labels/
-           ├──test/
-           └──train/
-        
